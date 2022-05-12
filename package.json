@@ -1,0 +1,20 @@
+{
+  "name": "api-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeCanto3/API-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JorgeCanto3/API-Express/issues"
+  },
+  "homepage": "https://github.com/JorgeCanto3/API-Express#readme"
+}
