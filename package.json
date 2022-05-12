@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/JorgeCanto3/API-Express/issues"
   },
-  "homepage": "https://github.com/JorgeCanto3/API-Express#readme"
+  "homepage": "https://github.com/JorgeCanto3/API-Express#readme",
+  "devDependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.18.1",
+    "prisma": "^3.14.0"
+  }
 }
